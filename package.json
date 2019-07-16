@@ -32,6 +32,7 @@
     "parse-server": "^3.3.0",
     "path": "^0.12.7",
     "request-promise": "^4.2.4",
+    "sudo": "^1.0.3",
     "xmlhttprequest": "^1.8.0"
   },
   "devDependencies": {
