@@ -5,3 +5,5 @@ I was getting an error when trying to do a mongodump on my Windows 10 laptop. I 
 \_Join:users:\_Role
 
 ^You should put back the original name after importing!
+
+mongorestore --db parse-example --verbose ./parse-example/
