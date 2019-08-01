@@ -1,0 +1,55 @@
+﻿type,cl,ka,title,url
+Reading List,Introductory,MTHD,Scrum Guide,https://www.scrum.org/resources/scrum-guide
+Reading List,Introductory,PRCS,Software Configuration Management Patterns,https://stackify.com/software-configuration-management-patterns/  
+Reading List,Introductory,,Clean Code / Clean Coder Series,
+Reading List,Introductory,,"Overwhelming state of javascript in 2016, even though it can still apply today ",https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f 
+Reading List,Introductory,,"Developer roadmap, which just outlines a lot of options of things to learn along the way", https://github.com/kamranahmedse/developer-roadmap
+Reading List,Introductory,,A breakdown of the front end developer roadmap,https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c
+Reading List,Introductory,,"ES6 arrow function, syntax, and lexical scoping ",https://toddmotto.com/es6-arrow-functions-syntaxes-and-lexical-scoping/
+Reading List,Introductory,,Promises explained as a cartoon,https://www.andyshora.com/promises-angularjs-explained-as-cartoon.html
+Reading List,Introductory,,REST API basics,https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/
+Reading List,Introductory,,"Good video on var vs let vs const, along with some basic JS terminology like hoisting and scope",https://www.youtube.com/watch?v=6vBYfLCE9-Q
+Reading List,Introductory,,Good intro to Docker,https://www.youtube.com/watch?v=SK0sqfVn7ls&index=5&list=PLkA60AVN3hh9gnrYwNO6zTb9U3i1Y9FMY
+Reading List,Introductory,,10 tips for failing badly at microservices,https://www.youtube.com/watch?v=X0tjziAQfNQ
+Reading List,Introductory,,“Agile Software Development with Scrum” by Ken Schwaber and Mike Beedle,
+Reading List,Introductory,,Microsoft Coding Conventions Guides for C# ,
+Reading List,Introductory,,"Blood, Sweat, and Pixels / Author: Jason Schreier",
+Reading List,Introductory,,,https://medium.com/topic/software-engineering 
+Reading List,Introductory,,No Silver Bullet: Essence and Accident in Software Engineering Fred Brooks,http://www.cs.nott.ac.uk/~pszcah/G51ISS/Documents/NoSilverBullet.html
+Reading List,Introductory,,The Mythical Man Month Fred Brooks,
+Reading List,Introductory,,Head First Design Patterns - Eric Freeman and Elisabeth Robson,
+Reading List,Introductory,,"Joel on Software - Joel Spolsky --It’s really just a collection of blog entries that are available at: joelonsoftware.com
+Covers all kinds of wisdom about being a software developer in the real world.  ",
+Reading List,Introductory,,"Xamarin University Tutorials, demo projects",
+Reading List,Introductory,,"
+https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X",
+Reading List,Introductory,,https://www.pluralsight.com/courses/dotnet-code-reviews-real-world-lessons,
+Reading List,Introductory,,Pluralsight SOLID series,
+Reading List,Competence,,Clean Coder,
+Reading List,Leadership,,Clean Architecture,
+Training,Introductory,CNST,,https://app.pluralsight.com/library/courses/full-stack-dot-net-developer-fundamentals/table-of-contents
+Training,Introductory,DSGN,,https://app.pluralsight.com/library/courses/javascript-practical-design-patterns/table-of-contents
+Training,Introductory,DSGN,,https://app.pluralsight.com/library/courses/tactical-design-patternsdot-net/table-of-contents
+Training,Introductory,CNST,,https://www.pluralsight.com/interactive-courses/aspdotnet-basic-web-app
+Training,Introductory,,,https://app.pluralsight.com/library/courses/how-git-works/table-of-contents
+Training,Introductory,,Having a demonstrative understanding of the SOLID principles. I know there are several pluralsight and other videos on SOLID.,
+Training,Introductory,,ASP.NET MVC 5 Fundamentals (Scott Allen).  ,
+Training,Introductory,,"•	Git (Atlassian - Git) ",
+Training,Introductory,,,https://app.pluralsight.com/library/courses/aspdotnet-core-dependency-injection/table-of-contents  
+Training,Introductory,,,https://app.pluralsight.com/library/courses/jquery-adv/table-of-contents 
+Professional Experience,Introductory,,Familiarize yourself with Azure Devops (CNST),
+Professional Experience,Introductory,,Begin learning a new programming language TaxSlayer uses (CNST),
+Professional Experience,Introductory,,Introduce and learn how our UI/UX team operates (DSGN),
+Professional Experience,Introductory,,"Review current work practices and evaluate how well they comply with the ""Software Engineering Code of Ethics and Professionalism” (FNDN)",
+Professional Experience,Introductory,,Review our Bug Triage process from IssueSlayer to QA and then to development (MNTC),
+Professional Experience,Introductory,,Participate in a fix in a production system (MNTC),
+Professional Experience,Introductory,,Learn a structured group estimation technique (e.g. planning poker) (MGMT),
+Professional Experience,Introductory,,Participate in the Release Process to gain a familiarization of how TaxSlayer deploys (CNFG),
+Professional Experience,Introductory,,Familiarize yourself with your assigned product’s architecture (CNFG),
+Professional Experience,Introductory,,"Participate in Sprint Planning, Retrospective, Grooming, and Daily Standup (PRCS)",
+Professional Experience,Introductory,,Code Review 20 Tasks (QUAL),
+Professional Experience,Introductory,,contribute to a major feature and have it deployed,
+Professional Experience,Introductory,,present code written for that contribution to your team,
+Professional Experience,Introductory,,Make an update in Avalon (small text change),
+Professional Experience,Competence,,Deploy software independently (CNFG),
+Professional Experience,Competence,,Start learning a new programming language TaxSlayer uses (CNST),
